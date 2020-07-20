@@ -1,0 +1,19 @@
+{
+  "name": "wotdhack",
+  "version": "1.0.0",
+  "description": "Disgusting hack for generating Cave of Linguists' \"Word of the Day\" images.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacobroly/wotdhack.git"
+  },
+  "author": "Jacob",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jacobroly/wotdhack/issues"
+  },
+  "homepage": "https://github.com/jacobroly/wotdhack#readme"
+}
